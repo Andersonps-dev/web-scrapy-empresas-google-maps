@@ -27,8 +27,6 @@ Salão de beleza - Embu das Artes - SP
 Salão de beleza - Taboão da Serra - SP
 Salão de beleza - Sumaré - SP
 Salão de beleza - São Carlos - SP
-
-#Daqui
 Salão de beleza - Presidente Prudente - SP
 Salão de beleza - Cotia - SP
 Salão de beleza - Americana - SP
