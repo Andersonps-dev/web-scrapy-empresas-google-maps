@@ -1,44 +1,67 @@
-# Google Maps Scraper
+# Google Maps Scraper com Playwright + SQLite
 
-This is simple scraper that uses Playwright to extract data from Google Maps. 
+Este projeto utiliza **Python** e **Playwright** para realizar a extração de dados do Google Maps com base em uma lista de pesquisas (ex: `Salão de beleza - São Paulo`, etc.). Os resultados são armazenados em um banco de dados SQLite (`negocios.db`), com informações como nome, endereço, telefone, localização geográfica, e dados de avaliação.
 
-This example is made for educational purposese.
+---
 
-This scrapit is easy to customize.
+## 📦 Requisitos
 
-check both Excel & CSV files (google_maps_data) to see how final data will look like. 
+- Python 3.8 ou superior
+- Pip
 
-## To Install:
-- (Optional: create & activate a virtual environment) `virtualenv venv`, then `source venv/bin/activate`
+### 📁 Instalar dependências (Terminal):
 
-- `pip install -r requirements.txt`
-- `playwright install chromium`
+```bash
+pip install -r requirements.txt
 
-## to Run:
-### A single search:
-- `python3 main.py -s=<what & where to search for> -t=<how many>`
+playwright install
 
-### Multiple searches at once
-1. Add searches in `input.txt`, each search should be in a new line as shown in the example (check `input.txt`)
-2. Then run: `python3 main.py` 
-3. If you pass `-t=<how many>` it will be applied to all the searches. 
+🛠️ Estrutura
+input.txt: arquivo com as pesquisas (ex: Salão de beleza - São Paulo)
+main.py: script principal para scraping e salvamento no SQLite
+negocios.db: banco de dados gerado contendo os dados extraídos
 
-## Tips:
-If you want to search more than the limited 120 results, detail you search more and as granular as you need it to be in the `input.txt`, for example:
+▶️ Como usar
+Adicione as pesquisas no arquivo input.txt no formato:
 
-- Instead of using:
+Salão de beleza - São Paulo - SP
+Salão de beleza - Guarulhos - SP
+Salão de beleza - Campinas - SP
+Execute o script:
 
-`United states dentist`
+python main.py
+O navegador abrirá e fará as buscas automaticamente.
 
-- Use:
+💾 Banco de dados
+Os dados são armazenados na tabela negocios com os seguintes campos:
 
-`Unites States Boston dentist`
+id (inteiro, auto-incremento)
 
-`Unites States New York dentist`
+name
+address
+website
+phone_number
+reviews_count
+reviews_average
+latitude
+longitude
+cidade
+pesquisa
 
-`Unites States Texas dentist`
+O campo cidade é extraído do texto após o hífen na pesquisa (ex: São Paulo), e o campo pesquisa é o texto antes do hífen (ex: Salão de beleza).
 
-And so on... 
+♻️ Modo incremental
+A cada nova execução do script, os dados são adicionados à tabela existente (append) sem apagar os anteriores.
 
+🧹 Para reiniciar do zero
+Se quiser limpar os dados antigos:
 
+rm negocios.db
+⚠️ Aviso
+Use com responsabilidade. O scraping do Google Maps pode violar os termos de serviço da plataforma.
 
+Este projeto é apenas para fins educacionais.
+
+---
+
+Se quiser, posso gerar o `requirements.txt` e até mesmo o comando para empacotar tudo com um `setup.py` ou `

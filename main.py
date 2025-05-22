@@ -19,6 +19,7 @@ class Business:
     longitude: float = None
     cidade: str = None
     pesquisa: str = None
+    estado: str = None
 
 @dataclass
 class BusinessList:
@@ -43,10 +44,11 @@ def split_search_term(term: str) -> tuple[str, str]:
         parts = term.strip().split('-')
         pesquisa = parts[0].strip()
         cidade = parts[1].strip()
+        estado = parts[2].strip()
     else:
         pesquisa = term.strip()
         cidade = ""
-    return pesquisa, cidade
+    return pesquisa, cidade, estado
 
 def main():
     parser = argparse.ArgumentParser()
@@ -78,7 +80,7 @@ def main():
             if not search_for:
                 continue
 
-            pesquisa, cidade = split_search_term(search_for)
+            pesquisa, cidade, estado = split_search_term(search_for)
 
             print(f"-----\n{search_for_index} - {search_for}")
 
@@ -136,6 +138,7 @@ def main():
                     # Adiciona cidade e pesquisa
                     business.cidade = cidade
                     business.pesquisa = pesquisa
+                    business.estado = estado
 
                     business_list.business_list.append(business)
                 except Exception as e:
