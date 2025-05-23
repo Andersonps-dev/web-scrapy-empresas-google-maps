@@ -19,7 +19,7 @@ def main():
     if args.search:
         search_list = [args.search]
     else:
-        input_file_path = 'input.txt'
+        input_file_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'input.txt')
         if os.path.exists(input_file_path):
             with open(input_file_path, 'r', encoding='utf-8') as file:
                 search_list = file.readlines()
