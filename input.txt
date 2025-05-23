@@ -1,18 +1,3 @@
-Salão de beleza - São Paulo - SP
-Salão de beleza - Guarulhos - SP
-Salão de beleza - Campinas - SP
-Salão de beleza - São Bernardo do Campo - SP
-Salão de beleza - Santo André - SP
-Salão de beleza - São José dos Campos - SP
-Salão de beleza - Osasco - SP
-Salão de beleza - Ribeirão Preto - SP
-Salão de beleza - Mauá - SP
-Salão de beleza - São José do Rio Preto - SP
-Salão de beleza - Mogi das Cruzes - SP
-Salão de beleza - Diadema - SP
-Salão de beleza - Jundiaí - SP
-Salão de beleza - Carapicuíba - SP
-Salão de beleza - Piracicaba - SP
 Salão de beleza - Bauru - SP
 Salão de beleza - São Vicente - SP
 Salão de beleza - Itaquaquecetuba - SP
