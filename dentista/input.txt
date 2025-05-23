@@ -1,32 +1,50 @@
-Salão de beleza - São Vicente - SP
-Salão de beleza - Itaquaquecetuba - SP
-Salão de beleza - Franca - SP
-Salão de beleza - Limeira - SP
-Salão de beleza - Suzano - SP
-Salão de beleza - Taubaté - SP
-Salão de beleza - Praia Grande - SP
-Salão de beleza - Santos - SP
-Salão de beleza - Barueri - SP
-Salão de beleza - Embu das Artes - SP
-Salão de beleza - Taboão da Serra - SP
-Salão de beleza - Sumaré - SP
-Salão de beleza - São Carlos - SP
-Salão de beleza - Presidente Prudente - SP
-Salão de beleza - Cotia - SP
-Salão de beleza - Americana - SP
-Salão de beleza - Araraquara - SP
-Salão de beleza - Indaiatuba - SP
-Salão de beleza - São Carlos - SP
-Salão de beleza - Itapecerica da Serra - SP
-Salão de beleza - Hortolândia - SP
-Salão de beleza - Ferraz de Vasconcelos - SP
-Salão de beleza - Francisco Morato - SP
-Salão de beleza - Itapevi - SP
-Salão de beleza - Itu - SP
-Salão de beleza - Valinhos - SP
-Salão de beleza - Bragança Paulista - SP
-Salão de beleza - Pindamonhangaba - SP
-Salão de beleza - São Caetano do Sul - SP
-Salão de beleza - Franco da Rocha - SP
-Salão de beleza - Mogi Guaçu - SP
-Salão de beleza - Jaú - SP
+Dentista - São Paulo - SP
+Dentista - Guarulhos - SP
+Dentista - Campinas - SP
+Dentista - São Bernardo do Campo - SP
+Dentista - Santo André - SP
+Dentista - São José dos Campos - SP
+Dentista - Osasco - SP
+Dentista - Ribeirão Preto - SP
+Dentista - Sorocaba - SP
+Dentista - Diadema - SP
+Dentista - Mauá - SP
+Dentista - São José do Rio Preto - SP
+Dentista - Santos - SP
+Dentista - Mogi das Cruzes - SP
+Dentista - Carapicuíba - SP
+Dentista - Bauru - SP
+Dentista - Jundiaí - SP
+Dentista - São Vicente - SP
+Dentista - Franca - SP
+Dentista - Piracicaba - SP
+Dentista - Itaquaquecetuba - SP
+Dentista - Barueri - SP
+Dentista - Taubaté - SP
+Dentista - Suzano - SP
+Dentista - Praia Grande - SP
+Dentista - Embu das Artes - SP
+Dentista - Taboão da Serra - SP
+Dentista - São Carlos - SP
+Dentista - Sumaré - SP
+Dentista - Jacareí - SP
+Dentista - Marília - SP
+Dentista - Americana - SP
+Dentista - Araraquara - SP
+Dentista - Indaiatuba - SP
+Dentista - Hortolândia - SP
+Dentista - Presidente Prudente - SP
+Dentista - Rio Claro - SP
+Dentista - Araçatuba - SP
+Dentista - Santa Bárbara d'Oeste - SP
+Dentista - Ferraz de Vasconcelos - SP
+Dentista - Francisco Morato - SP
+Dentista - Itapevi - SP
+Dentista - Pindamonhangaba - SP
+Dentista - Itu - SP
+Dentista - Bragança Paulista - SP
+Dentista - São Caetano do Sul - SP
+Dentista - Poá - SP
+Dentista - Itapetininga - SP
+Dentista - Mogi Guaçu - SP
+Dentista - Atibaia - SP
