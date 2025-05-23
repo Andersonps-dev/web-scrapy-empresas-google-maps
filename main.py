@@ -74,10 +74,10 @@ def main():
             pesquisa, cidade, estado = split_search_term(search_for)
             print(f"-----\n{search_for_index} - {search_for}")
 
-            browser = p.chromium.launch(headless=True)  # headless=True para mais velocidade
+            browser = p.chromium.launch(headless=True)
             page = browser.new_page()
             page.goto("https://www.google.com/maps", timeout=60000)
-            page.wait_for_timeout(2000)  # Reduzido
+            page.wait_for_timeout(2000)
 
             page.locator('//input[@id="searchboxinput"]').fill(search_for)
             page.wait_for_timeout(1000)
@@ -111,7 +111,7 @@ def main():
             for listing in listings:
                 try:
                     listing.click()
-                    page.wait_for_timeout(1200)  # Reduzido
+                    page.wait_for_timeout(1200)
 
                     business = Business()
                     try:
