@@ -129,27 +129,25 @@ class GoogleMapsScraper:
                 self.business_list.save_to_sqlite()
                 browser.close()
 
-def main():
-    parser = argparse.ArgumentParser()
-    parser.add_argument("-s", "--search", type=str)
-    parser.add_argument("-t", "--total", type=int)
-    args = parser.parse_args()
-
-    if args.search:
-        search_list = [args.search]
-    else:
-        input_file_path = os.path.join(os.getcwd(), 'input.txt')
-        if os.path.exists(input_file_path):
-            with open(input_file_path, 'r', encoding='utf-8') as file:
-                search_list = file.readlines()
-        else:
-            print("Arquivo input.txt não encontrado e nenhum argumento -s foi passado.")
-            sys.exit()
-
-    total = args.total if args.total else 1_000_000
-
-    scraper = GoogleMapsScraper()
-    scraper.run(search_list, total)
-
 if __name__ == "__main__":
-    main()
+    def main():
+        parser = argparse.ArgumentParser()
+        parser.add_argument("-s", "--search", type=str)
+        parser.add_argument("-t", "--total", type=int)
+        args = parser.parse_args()
+
+        if args.search:
+            search_list = [args.search]
+        else:
+            input_file_path = os.path.join(os.getcwd(), 'input.txt')
+            if os.path.exists(input_file_path):
+                with open(input_file_path, 'r', encoding='utf-8') as file:
+                    search_list = file.readlines()
+            else:
+                print("Arquivo input.txt não encontrado e nenhum argumento -s foi passado.")
+                sys.exit()
+
+        total = args.total if args.total else 1_000_000
+
+        scraper = GoogleMapsScraper()
+        scraper.run(search_list, total)
