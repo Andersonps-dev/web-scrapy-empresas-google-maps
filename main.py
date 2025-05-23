@@ -70,11 +70,6 @@ def main():
     total = args.total if args.total else 1_000_000
 
     with sync_playwright() as p:
-        browser = p.chromium.launch(headless=False)
-        page = browser.new_page()
-        page.goto("https://www.google.com/maps", timeout=60000)
-        page.wait_for_timeout(5000)
-
         for search_for_index, search_for in enumerate(search_list):
             search_for = search_for.strip()
             if not search_for:
@@ -83,6 +78,12 @@ def main():
             pesquisa, cidade, estado = split_search_term(search_for)
 
             print(f"-----\n{search_for_index} - {search_for}")
+
+            # Abra o navegador aqui
+            browser = p.chromium.launch(headless=False)
+            page = browser.new_page()
+            page.goto("https://www.google.com/maps", timeout=60000)
+            page.wait_for_timeout(5000)
 
             page.locator('//input[@id="searchboxinput"]').fill(search_for)
             page.wait_for_timeout(3000)
@@ -146,7 +147,8 @@ def main():
 
             business_list.save_to_sqlite()
 
-        browser.close()
+            # Feche o navegador aqui
+            browser.close()
 
 if __name__ == "__main__":
     main()
