@@ -1,30 +1,50 @@
-Salão de beleza - Franca - SP
-Salão de beleza - Limeira - SP
-Salão de beleza - Suzano - SP
-Salão de beleza - Taubaté - SP
-Salão de beleza - Praia Grande - SP
-Salão de beleza - Santos - SP
-Salão de beleza - Barueri - SP
-Salão de beleza - Embu das Artes - SP
-Salão de beleza - Taboão da Serra - SP
-Salão de beleza - Sumaré - SP
-Salão de beleza - São Carlos - SP
-Salão de beleza - Presidente Prudente - SP
-Salão de beleza - Cotia - SP
-Salão de beleza - Americana - SP
-Salão de beleza - Araraquara - SP
-Salão de beleza - Indaiatuba - SP
-Salão de beleza - São Carlos - SP
-Salão de beleza - Itapecerica da Serra - SP
-Salão de beleza - Hortolândia - SP
-Salão de beleza - Ferraz de Vasconcelos - SP
-Salão de beleza - Francisco Morato - SP
-Salão de beleza - Itapevi - SP
-Salão de beleza - Itu - SP
-Salão de beleza - Valinhos - SP
-Salão de beleza - Bragança Paulista - SP
-Salão de beleza - Pindamonhangaba - SP
-Salão de beleza - São Caetano do Sul - SP
-Salão de beleza - Franco da Rocha - SP
-Salão de beleza - Mogi Guaçu - SP
-Salão de beleza - Jaú - SP
+Salaão de beleza - São Paulo - SP
+Salaão de beleza - Guarulhos - SP
+Salaão de beleza - Campinas - SP
+Salaão de beleza - São Bernardo do Campo - SP
+Salaão de beleza - Santo André - SP
+Salaão de beleza - São José dos Campos - SP
+Salaão de beleza - Osasco - SP
+Salaão de beleza - Ribeirão Preto - SP
+Salaão de beleza - Sorocaba - SP
+Salaão de beleza - Diadema - SP
+Salaão de beleza - Mauá - SP
+Salaão de beleza - São José do Rio Preto - SP
+Salaão de beleza - Santos - SP
+Salaão de beleza - Mogi das Cruzes - SP
+Salaão de beleza - Carapicuíba - SP
+Salaão de beleza - Bauru - SP
+Salaão de beleza - Jundiaí - SP
+Salaão de beleza - São Vicente - SP
+Salaão de beleza - Franca - SP
+Salaão de beleza - Piracicaba - SP
+Salaão de beleza - Itaquaquecetuba - SP
+Salaão de beleza - Barueri - SP
+Salaão de beleza - Taubaté - SP
+Salaão de beleza - Suzano - SP
+Salaão de beleza - Praia Grande - SP
+Salaão de beleza - Embu das Artes - SP
+Salaão de beleza - Taboão da Serra - SP
+Salaão de beleza - São Carlos - SP
+Salaão de beleza - Sumaré - SP
+Salaão de beleza - Jacareí - SP
+Salaão de beleza - Marília - SP
+Salaão de beleza - Americana - SP
+Salaão de beleza - Araraquara - SP
+Salaão de beleza - Indaiatuba - SP
+Salaão de beleza - Hortolândia - SP
+Salaão de beleza - Presidente Prudente - SP
+Salaão de beleza - Rio Claro - SP
+Salaão de beleza - Araçatuba - SP
+Salaão de beleza - Santa Bárbara d'Oeste - SP
+Salaão de beleza - Ferraz de Vasconcelos - SP
+Salaão de beleza - Francisco Morato - SP
+Salaão de beleza - Itapevi - SP
+Salaão de beleza - Pindamonhangaba - SP
+Salaão de beleza - Itu - SP
+Salaão de beleza - Bragança Paulista - SP
+Salaão de beleza - São Caetano do Sul - SP
+Salaão de beleza - Poá - SP
+Salaão de beleza - Itapetininga - SP
+Salaão de beleza - Mogi Guaçu - SP
+Salaão de beleza - Atibaia - SP
