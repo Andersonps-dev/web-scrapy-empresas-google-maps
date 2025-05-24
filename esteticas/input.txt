@@ -25,8 +25,6 @@ Estética - Suzano - SP
 Estética - Praia Grande - SP
 Estética - Embu das Artes - SP
 Estética - Taboão da Serra - SP
-
-#Parou aqui -----------
 Estética - São Carlos - SP
 Estética - Sumaré - SP
 Estética - Jacareí - SP

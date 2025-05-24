@@ -24,8 +24,6 @@ Dentista - Taubaté - SP
 Dentista - Suzano - SP
 Dentista - Praia Grande - SP
 Dentista - Embu das Artes - SP
-
-#Parou aqui ----------
 Dentista - Taboão da Serra - SP
 Dentista - São Carlos - SP
 Dentista - Sumaré - SP
