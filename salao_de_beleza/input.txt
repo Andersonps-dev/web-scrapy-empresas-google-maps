@@ -1,37 +1,3 @@
-Salão de beleza - Belo Horizonte - MG
-Salão de beleza - Contagem - MG
-Salão de beleza - Betim - MG
-Salão de beleza - Uberlândia - MG
-Salão de beleza - Juiz de Fora - MG
-Salão de beleza - Uberaba - MG
-Salão de beleza - Governador Valadares - MG
-Salão de beleza - Ipatinga - MG
-Salão de beleza - Sete Lagoas - MG
-Salão de beleza - Divinópolis - MG
-Salão de beleza - Santa Luzia - MG
-Salão de beleza - Ribeirão das Neves - MG
-Salão de beleza - Ibirité - MG
-Salão de beleza - Sabará - MG
-Salão de beleza - Vespasiano - MG
-Salão de beleza - Araguari - MG
-Salão de beleza - Lavras - MG
-Salão de beleza - Coronel Fabriciano - MG
-Salão de beleza - Itabira - MG
-Salão de beleza - Patos de Minas - MG
-Salão de beleza - Teófilo Otoni - MG
-Salão de beleza - Barbacena - MG
-Salão de beleza - Ituiutaba - MG
-Salão de beleza - Pará de Minas - MG
-Salão de beleza - Ponte Nova - MG
-Salão de beleza - Nova Lima - MG
-Salão de beleza - Araxá - MG
-Salão de beleza - Janaúba - MG
-Salão de beleza - Curvelo - MG
-Salão de beleza - Almenara - MG
-Salão de beleza - Viçosa - MG
-Salão de beleza - Três Corações - MG
-Salão de beleza - Pirapora - MG
-Salão de beleza - João Monlevade - MG
 Salão de beleza - Cataguases - MG
 Salão de beleza - Timóteo - MG
 Salão de beleza - Muriaé - MG

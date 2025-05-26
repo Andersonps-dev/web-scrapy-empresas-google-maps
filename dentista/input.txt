@@ -1,14 +1,3 @@
-Dentista - Belo Horizonte - MG
-Dentista - Contagem - MG
-Dentista - Betim - MG
-Dentista - Uberlândia - MG
-Dentista - Juiz de Fora - MG
-Dentista - Uberaba - MG
-Dentista - Governador Valadares - MG
-Dentista - Ipatinga - MG
-Dentista - Sete Lagoas - MG
-Dentista - Divinópolis - MG
-Dentista - Santa Luzia - MG
 Dentista - Ribeirão das Neves - MG
 Dentista - Ibirité - MG
 Dentista - Sabará - MG
