@@ -1,50 +1,49 @@
-Estética - São Paulo - SP
-Estética - Guarulhos - SP
-Estética - Campinas - SP
-Estética - São Bernardo do Campo - SP
-Estética - Santo André - SP
-Estética - São José dos Campos - SP
-Estética - Osasco - SP
-Estética - Ribeirão Preto - SP
-Estética - Sorocaba - SP
-Estética - Diadema - SP
-Estética - Mauá - SP
-Estética - São José do Rio Preto - SP
-Estética - Santos - SP
-Estética - Mogi das Cruzes - SP
-Estética - Carapicuíba - SP
-Estética - Bauru - SP
-Estética - Jundiaí - SP
-Estética - São Vicente - SP
-Estética - Franca - SP
-Estética - Piracicaba - SP
-Estética - Itaquaquecetuba - SP
-Estética - Barueri - SP
-Estética - Taubaté - SP
-Estética - Suzano - SP
-Estética - Praia Grande - SP
-Estética - Embu das Artes - SP
-Estética - Taboão da Serra - SP
-Estética - São Carlos - SP
-Estética - Sumaré - SP
-Estética - Jacareí - SP
-Estética - Marília - SP
-Estética - Americana - SP
-Estética - Araraquara - SP
-Estética - Indaiatuba - SP
-Estética - Hortolândia - SP
-Estética - Presidente Prudente - SP
-Estética - Rio Claro - SP
-Estética - Araçatuba - SP
-Estética - Santa Bárbara d'Oeste - SP
-Estética - Ferraz de Vasconcelos - SP
-Estética - Francisco Morato - SP
-Estética - Itapevi - SP
-Estética - Pindamonhangaba - SP
-Estética - Itu - SP
-Estética - Bragança Paulista - SP
-Estética - São Caetano do Sul - SP
-Estética - Poá - SP
-Estética - Itapetininga - SP
-Estética - Mogi Guaçu - SP
-Estética - Atibaia - SP
+Estética - Alfenas - MG
+Estética - Andradas - MG
+Estética - Areado - MG
+Estética - Baependi - MG
+Estética - Bicas - MG
+Estética - Boa Esperança - MG
+Estética - Bom Sucesso - MG
+Estética - Botelhos - MG
+Estética - Cabo Verde - MG
+Estética - Cachoeira de Minas - MG
+Estética - Caldas - MG
+Estética - Cambuquira - MG
+Estética - Campanha - MG
+Estética - Campo Belo - MG
+Estética - Campo do Meio - MG
+Estética - Candeias - MG
+Estética - Capetinga - MG
+Estética - Carmo da Cachoeira - MG
+Estética - Carmo de Minas - MG
+Estética - Carmo do Rio Claro - MG
+Estética - Caxambu - MG
+Estética - Conceição Aparecida - MG
+Estética - Conceição das Pedras - MG
+Estética - Coqueiral - MG
+Estética - Cruzília - MG
+Estética - Elói Mendes - MG
+Estética - Espírito Santo do Dourado - MG
+Estética - Fama - MG
+Estética - Guapé - MG
+Estética - Guaxupé - MG
+Estética - Ilicínea - MG
+Estética - Itajubá - MG
+Estética - Jacutinga - MG
+Estética - Lambari - MG
+Estética - Machado - MG
+Estética - Maria da Fé - MG
+Estética - Monsenhor Paulo - MG
+Estética - Monte Belo - MG
+Estética - Monte Santo de Minas - MG
+Estética - Muzambinho - MG
+Estética - Nepomuceno - MG
+Estética - Paraguaçu - MG
+Estética - Passa Quatro - MG
+Estética - Passos - MG
+Estética - Perdões - MG
+Estética - Poços de Caldas - MG
+Estética - Pouso Alegre - MG
+Estética - Santa Rita do Sapucaí - MG
+Estética - São Lourenço - MG

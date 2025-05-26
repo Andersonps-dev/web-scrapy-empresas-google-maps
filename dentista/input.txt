@@ -1,50 +1,49 @@
-Dentista - São Paulo - SP
-Dentista - Guarulhos - SP
-Dentista - Campinas - SP
-Dentista - São Bernardo do Campo - SP
-Dentista - Santo André - SP
-Dentista - São José dos Campos - SP
-Dentista - Osasco - SP
-Dentista - Ribeirão Preto - SP
-Dentista - Sorocaba - SP
-Dentista - Diadema - SP
-Dentista - Mauá - SP
-Dentista - São José do Rio Preto - SP
-Dentista - Santos - SP
-Dentista - Mogi das Cruzes - SP
-Dentista - Carapicuíba - SP
-Dentista - Bauru - SP
-Dentista - Jundiaí - SP
-Dentista - São Vicente - SP
-Dentista - Franca - SP
-Dentista - Piracicaba - SP
-Dentista - Itaquaquecetuba - SP
-Dentista - Barueri - SP
-Dentista - Taubaté - SP
-Dentista - Suzano - SP
-Dentista - Praia Grande - SP
-Dentista - Embu das Artes - SP
-Dentista - Taboão da Serra - SP
-Dentista - São Carlos - SP
-Dentista - Sumaré - SP
-Dentista - Jacareí - SP
-Dentista - Marília - SP
-Dentista - Americana - SP
-Dentista - Araraquara - SP
-Dentista - Indaiatuba - SP
-Dentista - Hortolândia - SP
-Dentista - Presidente Prudente - SP
-Dentista - Rio Claro - SP
-Dentista - Araçatuba - SP
-Dentista - Santa Bárbara d'Oeste - SP
-Dentista - Ferraz de Vasconcelos - SP
-Dentista - Francisco Morato - SP
-Dentista - Itapevi - SP
-Dentista - Pindamonhangaba - SP
-Dentista - Itu - SP
-Dentista - Bragança Paulista - SP
-Dentista - São Caetano do Sul - SP
-Dentista - Poá - SP
-Dentista - Itapetininga - SP
-Dentista - Mogi Guaçu - SP
-Dentista - Atibaia - SP
+Dentista - Alfenas - MG
+Dentista - Andradas - MG
+Dentista - Areado - MG
+Dentista - Baependi - MG
+Dentista - Bicas - MG
+Dentista - Boa Esperança - MG
+Dentista - Bom Sucesso - MG
+Dentista - Botelhos - MG
+Dentista - Cabo Verde - MG
+Dentista - Cachoeira de Minas - MG
+Dentista - Caldas - MG
+Dentista - Cambuquira - MG
+Dentista - Campanha - MG
+Dentista - Campo Belo - MG
+Dentista - Campo do Meio - MG
+Dentista - Candeias - MG
+Dentista - Capetinga - MG
+Dentista - Carmo da Cachoeira - MG
+Dentista - Carmo de Minas - MG
+Dentista - Carmo do Rio Claro - MG
+Dentista - Caxambu - MG
+Dentista - Conceição Aparecida - MG
+Dentista - Conceição das Pedras - MG
+Dentista - Coqueiral - MG
+Dentista - Cruzília - MG
+Dentista - Elói Mendes - MG
+Dentista - Espírito Santo do Dourado - MG
+Dentista - Fama - MG
+Dentista - Guapé - MG
+Dentista - Guaxupé - MG
+Dentista - Ilicínea - MG
+Dentista - Itajubá - MG
+Dentista - Jacutinga - MG
+Dentista - Lambari - MG
+Dentista - Machado - MG
+Dentista - Maria da Fé - MG
+Dentista - Monsenhor Paulo - MG
+Dentista - Monte Belo - MG
+Dentista - Monte Santo de Minas - MG
+Dentista - Muzambinho - MG
+Dentista - Nepomuceno - MG
+Dentista - Paraguaçu - MG
+Dentista - Passa Quatro - MG
+Dentista - Passos - MG
+Dentista - Perdões - MG
+Dentista - Poços de Caldas - MG
+Dentista - Pouso Alegre - MG
+Dentista - Santa Rita do Sapucaí - MG
+Dentista - São Lourenço - MG
