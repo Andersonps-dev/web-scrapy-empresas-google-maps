@@ -35,9 +35,9 @@ if __name__ == "__main__":
         subset=['address']
     )
 
-    coleta_aleatorio(
-        db_path='dados_google_maps.db',
-        tabela='negocios',
-        n=200
-    )
+    # coleta_aleatorio(
+    #     db_path='dados_google_maps.db',
+    #     tabela='negocios',
+    #     n=200
+    # )
 
