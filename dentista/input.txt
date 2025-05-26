@@ -1,49 +1,49 @@
-Dentista - Rio de Janeiro - RJ
-Dentista - São Gonçalo - RJ
-Dentista - Duque de Caxias - RJ
-Dentista - Nova Iguaçu - RJ
-Dentista - Niterói - RJ
-Dentista - Belford Roxo - RJ
-Dentista - São João de Meriti - RJ
-Dentista - Campos dos Goytacazes - RJ
-Dentista - Petrópolis - RJ
-Dentista - Volta Redonda - RJ
-Dentista - Magé - RJ
-Dentista - Itaboraí - RJ
-Dentista - Cabo Frio - RJ
-Dentista - Angra dos Reis - RJ
-Dentista - Mesquita - RJ
-Dentista - Nilópolis - RJ
-Dentista - Teresópolis - RJ
-Dentista - Barra Mansa - RJ
-Dentista - Nova Friburgo - RJ
-Dentista - Queimados - RJ
-Dentista - Maricá - RJ
-Dentista - Macaé - RJ
-Dentista - Resende - RJ
-Dentista - Rio das Ostras - RJ
-Dentista - Saquarema - RJ
-Dentista - Itaguaí - RJ
-Dentista - Araruama - RJ
-Dentista - Barra do Piraí - RJ
-Dentista - Três Rios - RJ
-Dentista - Paracambi - RJ
-Dentista - Iguaba Grande - RJ
-Dentista - Seropédica - RJ
-Dentista - São Pedro da Aldeia - RJ
-Dentista - Tanguá - RJ
-Dentista - Casimiro de Abreu - RJ
-Dentista - Arraial do Cabo - RJ
-Dentista - Valença - RJ
-Dentista - Quissamã - RJ
-Dentista - Paraíba do Sul - RJ
-Dentista - Sapucaia - RJ
-Dentista - Itaperuna - RJ
-Dentista - Santo Antônio de Pádua - RJ
-Dentista - Paty do Alferes - RJ
-Dentista - Conceição de Macabu - RJ
-Dentista - São Francisco de Itabapoana - RJ
-Dentista - Pinheiral - RJ
-Dentista - Paraty - RJ
-Dentista - Bom Jesus do Itabapoana - RJ
-Dentista - Silva Jardim - RJ
+Dentista - Belo Horizonte - MG
+Dentista - Contagem - MG
+Dentista - Betim - MG
+Dentista - Uberlândia - MG
+Dentista - Juiz de Fora - MG
+Dentista - Uberaba - MG
+Dentista - Governador Valadares - MG
+Dentista - Ipatinga - MG
+Dentista - Sete Lagoas - MG
+Dentista - Divinópolis - MG
+Dentista - Santa Luzia - MG
+Dentista - Ribeirão das Neves - MG
+Dentista - Ibirité - MG
+Dentista - Sabará - MG
+Dentista - Vespasiano - MG
+Dentista - Araguari - MG
+Dentista - Lavras - MG
+Dentista - Coronel Fabriciano - MG
+Dentista - Itabira - MG
+Dentista - Patos de Minas - MG
+Dentista - Teófilo Otoni - MG
+Dentista - Barbacena - MG
+Dentista - Ituiutaba - MG
+Dentista - Pará de Minas - MG
+Dentista - Ponte Nova - MG
+Dentista - Nova Lima - MG
+Dentista - Araxá - MG
+Dentista - Janaúba - MG
+Dentista - Curvelo - MG
+Dentista - Almenara - MG
+Dentista - Viçosa - MG
+Dentista - Três Corações - MG
+Dentista - Pirapora - MG
+Dentista - João Monlevade - MG
+Dentista - Cataguases - MG
+Dentista - Timóteo - MG
+Dentista - Muriaé - MG
+Dentista - Lagoa da Prata - MG
+Dentista - Conselheiro Lafaiete - MG
+Dentista - Itajubá - MG
+Dentista - São João del-Rei - MG
+Dentista - Frutal - MG
+Dentista - Manhuaçu - MG
+Dentista - Unaí - MG
+Dentista - Pará de Minas - MG
+Dentista - Caratinga - MG
+Dentista - Formiga - MG
+Dentista - Paracatu - MG
+Dentista - João Pinheiro - MG

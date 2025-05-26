@@ -1,49 +1,49 @@
-Salão de beleza - Rio de Janeiro - RJ
-Salão de beleza - São Gonçalo - RJ
-Salão de beleza - Duque de Caxias - RJ
-Salão de beleza - Nova Iguaçu - RJ
-Salão de beleza - Niterói - RJ
-Salão de beleza - Belford Roxo - RJ
-Salão de beleza - São João de Meriti - RJ
-Salão de beleza - Campos dos Goytacazes - RJ
-Salão de beleza - Petrópolis - RJ
-Salão de beleza - Volta Redonda - RJ
-Salão de beleza - Magé - RJ
-Salão de beleza - Itaboraí - RJ
-Salão de beleza - Cabo Frio - RJ
-Salão de beleza - Angra dos Reis - RJ
-Salão de beleza - Mesquita - RJ
-Salão de beleza - Nilópolis - RJ
-Salão de beleza - Teresópolis - RJ
-Salão de beleza - Barra Mansa - RJ
-Salão de beleza - Nova Friburgo - RJ
-Salão de beleza - Queimados - RJ
-Salão de beleza - Maricá - RJ
-Salão de beleza - Macaé - RJ
-Salão de beleza - Resende - RJ
-Salão de beleza - Rio das Ostras - RJ
-Salão de beleza - Saquarema - RJ
-Salão de beleza - Itaguaí - RJ
-Salão de beleza - Araruama - RJ
-Salão de beleza - Barra do Piraí - RJ
-Salão de beleza - Três Rios - RJ
-Salão de beleza - Paracambi - RJ
-Salão de beleza - Iguaba Grande - RJ
-Salão de beleza - Seropédica - RJ
-Salão de beleza - São Pedro da Aldeia - RJ
-Salão de beleza - Tanguá - RJ
-Salão de beleza - Casimiro de Abreu - RJ
-Salão de beleza - Arraial do Cabo - RJ
-Salão de beleza - Valença - RJ
-Salão de beleza - Quissamã - RJ
-Salão de beleza - Paraíba do Sul - RJ
-Salão de beleza - Sapucaia - RJ
-Salão de beleza - Itaperuna - RJ
-Salão de beleza - Santo Antônio de Pádua - RJ
-Salão de beleza - Paty do Alferes - RJ
-Salão de beleza - Conceição de Macabu - RJ
-Salão de beleza - São Francisco de Itabapoana - RJ
-Salão de beleza - Pinheiral - RJ
-Salão de beleza - Paraty - RJ
-Salão de beleza - Bom Jesus do Itabapoana - RJ
-Salão de beleza - Silva Jardim - RJ
+Salão de beleza - Belo Horizonte - MG
+Salão de beleza - Contagem - MG
+Salão de beleza - Betim - MG
+Salão de beleza - Uberlândia - MG
+Salão de beleza - Juiz de Fora - MG
+Salão de beleza - Uberaba - MG
+Salão de beleza - Governador Valadares - MG
+Salão de beleza - Ipatinga - MG
+Salão de beleza - Sete Lagoas - MG
+Salão de beleza - Divinópolis - MG
+Salão de beleza - Santa Luzia - MG
+Salão de beleza - Ribeirão das Neves - MG
+Salão de beleza - Ibirité - MG
+Salão de beleza - Sabará - MG
+Salão de beleza - Vespasiano - MG
+Salão de beleza - Araguari - MG
+Salão de beleza - Lavras - MG
+Salão de beleza - Coronel Fabriciano - MG
+Salão de beleza - Itabira - MG
+Salão de beleza - Patos de Minas - MG
+Salão de beleza - Teófilo Otoni - MG
+Salão de beleza - Barbacena - MG
+Salão de beleza - Ituiutaba - MG
+Salão de beleza - Pará de Minas - MG
+Salão de beleza - Ponte Nova - MG
+Salão de beleza - Nova Lima - MG
+Salão de beleza - Araxá - MG
+Salão de beleza - Janaúba - MG
+Salão de beleza - Curvelo - MG
+Salão de beleza - Almenara - MG
+Salão de beleza - Viçosa - MG
+Salão de beleza - Três Corações - MG
+Salão de beleza - Pirapora - MG
+Salão de beleza - João Monlevade - MG
+Salão de beleza - Cataguases - MG
+Salão de beleza - Timóteo - MG
+Salão de beleza - Muriaé - MG
+Salão de beleza - Lagoa da Prata - MG
+Salão de beleza - Conselheiro Lafaiete - MG
+Salão de beleza - Itajubá - MG
+Salão de beleza - São João del-Rei - MG
+Salão de beleza - Frutal - MG
+Salão de beleza - Manhuaçu - MG
+Salão de beleza - Unaí - MG
+Salão de beleza - Pará de Minas - MG
+Salão de beleza - Caratinga - MG
+Salão de beleza - Formiga - MG
+Salão de beleza - Paracatu - MG
+Salão de beleza - João Pinheiro - MG

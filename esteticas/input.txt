@@ -1,49 +1,49 @@
-Estética - Rio de Janeiro - RJ
-Estética - São Gonçalo - RJ
-Estética - Duque de Caxias - RJ
-Estética - Nova Iguaçu - RJ
-Estética - Niterói - RJ
-Estética - Belford Roxo - RJ
-Estética - São João de Meriti - RJ
-Estética - Campos dos Goytacazes - RJ
-Estética - Petrópolis - RJ
-Estética - Volta Redonda - RJ
-Estética - Magé - RJ
-Estética - Itaboraí - RJ
-Estética - Cabo Frio - RJ
-Estética - Angra dos Reis - RJ
-Estética - Mesquita - RJ
-Estética - Nilópolis - RJ
-Estética - Teresópolis - RJ
-Estética - Barra Mansa - RJ
-Estética - Nova Friburgo - RJ
-Estética - Queimados - RJ
-Estética - Maricá - RJ
-Estética - Macaé - RJ
-Estética - Resende - RJ
-Estética - Rio das Ostras - RJ
-Estética - Saquarema - RJ
-Estética - Itaguaí - RJ
-Estética - Araruama - RJ
-Estética - Barra do Piraí - RJ
-Estética - Três Rios - RJ
-Estética - Paracambi - RJ
-Estética - Iguaba Grande - RJ
-Estética - Seropédica - RJ
-Estética - São Pedro da Aldeia - RJ
-Estética - Tanguá - RJ
-Estética - Casimiro de Abreu - RJ
-Estética - Arraial do Cabo - RJ
-Estética - Valença - RJ
-Estética - Quissamã - RJ
-Estética - Paraíba do Sul - RJ
-Estética - Sapucaia - RJ
-Estética - Itaperuna - RJ
-Estética - Santo Antônio de Pádua - RJ
-Estética - Paty do Alferes - RJ
-Estética - Conceição de Macabu - RJ
-Estética - São Francisco de Itabapoana - RJ
-Estética - Pinheiral - RJ
-Estética - Paraty - RJ
-Estética - Bom Jesus do Itabapoana - RJ
-Estética - Silva Jardim - RJ
+Estética - Belo Horizonte - MG
+Estética - Contagem - MG
+Estética - Betim - MG
+Estética - Uberlândia - MG
+Estética - Juiz de Fora - MG
+Estética - Uberaba - MG
+Estética - Governador Valadares - MG
+Estética - Ipatinga - MG
+Estética - Sete Lagoas - MG
+Estética - Divinópolis - MG
+Estética - Santa Luzia - MG
+Estética - Ribeirão das Neves - MG
+Estética - Ibirité - MG
+Estética - Sabará - MG
+Estética - Vespasiano - MG
+Estética - Araguari - MG
+Estética - Lavras - MG
+Estética - Coronel Fabriciano - MG
+Estética - Itabira - MG
+Estética - Patos de Minas - MG
+Estética - Teófilo Otoni - MG
+Estética - Barbacena - MG
+Estética - Ituiutaba - MG
+Estética - Pará de Minas - MG
+Estética - Ponte Nova - MG
+Estética - Nova Lima - MG
+Estética - Araxá - MG
+Estética - Janaúba - MG
+Estética - Curvelo - MG
+Estética - Almenara - MG
+Estética - Viçosa - MG
+Estética - Três Corações - MG
+Estética - Pirapora - MG
+Estética - João Monlevade - MG
+Estética - Cataguases - MG
+Estética - Timóteo - MG
+Estética - Muriaé - MG
+Estética - Lagoa da Prata - MG
+Estética - Conselheiro Lafaiete - MG
+Estética - Itajubá - MG
+Estética - São João del-Rei - MG
+Estética - Frutal - MG
+Estética - Manhuaçu - MG
+Estética - Unaí - MG
+Estética - Pará de Minas - MG
+Estética - Caratinga - MG
+Estética - Formiga - MG
+Estética - Paracatu - MG
+Estética - João Pinheiro - MG
