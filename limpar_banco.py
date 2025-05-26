@@ -17,9 +17,27 @@ def limpar_duplicatas_e_salvar(db_path, tabela, subset=None):
     finally:
         conn.close()
 
+def coleta_aleatorio(db_path, tabela, n=None):
+    conn = sqlite3.connect(db_path)
+
+    df = pd.read_sql_query(f"SELECT * FROM {tabela}", conn)
+
+    df_amostra = df.sample(n=n, random_state=42)
+
+    df_amostra.to_excel('amostra_200_linhas.xlsx', index=False)
+
+    conn.close()
+
 if __name__ == "__main__":
     limpar_duplicatas_e_salvar(
         db_path='dados_google_maps.db',
         tabela='negocios',
         subset=['address']
     )
+
+    coleta_aleatorio(
+        db_path='dados_google_maps.db',
+        tabela='negocios',
+        n=200
+    )
+
